@@ -12,7 +12,8 @@ dependencies:
     sdk: flutter
 
   attributed_text:
-    path: ../attributed_text
+    git:
+      url: https://github.com/DinhNam99/attributed_text.git
   logging: ^1.0.1
 
 dependency_overrides:
